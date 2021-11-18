@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Libre+Franklin:400,700');
+
+body{
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.top-navbar {
+  background-color: #332b3d;
+}
+
+.navbar-brand{
+    color: #e58cdb;
+    font-size: xx-large;
+    font-family: 'Dancing Script', cursive;
+}
+
+.navbar-nav a{
+    color: #e58cdb;
+    font-size: x-large;
+}
+
+.navbar-nav a:hover{
+    color: #82AD2D;
+}
+
+.banner{
+    padding: 200px 0 150px 0;
+    background: url('/images/roses_1.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.banner h1{
+    font-size: 80px;
+}
+
+.banner .btn{
+    font-size: x-large;
+    background-color: #82AD2D;
+    border: none;
+    color: rgb(20, 15, 15);
+    font-family: 'Dancing Script', cursive;
+}
+
+.Why-roses{
+    background-color: #E58CDB;
+    text-align: center;
+}
+
+.Why-roses i{
+    font-size: 50px;
+    color: #672A4E;
+}
+
+.Why-roses h1{
+    color: #672A4E;
+}
+
+.Why-roses span{
+    padding-bottom: 5px;
+    border-bottom: solid 2px #672A4E;
+}
+
+.Why-roses .card{
+    height: 200px;
+    border-radius: 20px;
+}
+
+.Why-roses i{
+    font-size: 50px;
+    color: #672A4E;
+}
+
+.Roses-variety h1{
+    color: #672A4E;
+}
+
+.Roses-variety i{
+    font-size: 50px;
+    color: #672A4E;
+}
+
+.Roses-variety span{
+    padding-bottom: 5px;
+    border-bottom: solid 2px #672A4E;
+}
+
+.Roses-variety .card{
+    border: none;
+}
+
+.Roses-variety .card figcaption{
+    background-color: #82AD2D;
+    color: #fff;
+    position: relative;
+    top: -30px;
+}
+
+.Queen-Flowers{
+    background-color: #000000;
+}
+
+.Queen-Flowers h1{
+    color: #672A4E;
+}
+
+.Queen-Flowers span{
+    padding-bottom: 5px;
+    border-bottom: solid 2px #672A4E;
+}
+
+.Queen-Flowers iframe{
+    height: 450px;
+}
+
+
+.contact-us{
+    background-color: #E58CDB;
+}
+
+.contact-us i{
+    font-size: 50px;
+    color: #672A4E;
+}
+
+.contact-us .border-bot{
+    padding-bottom: 5px;
+    border-bottom: solid 2px #672A4E;
+}
+
+.submit-btn{
+    background-color: #82AD2D;
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+
+footer{
+    background-color: black;
+    color: #E58CDB;
+    text-align: center;
+}
